@@ -7,10 +7,13 @@ service teams. Ingests calls from CRMs and returns a structured quality
 score, detected patterns, and recommendations for operators.
 
 > **Disclaimer.** This is a public architectural description of a real
-> system the author worked on. Specific clients, domain names, financial
+> system the author worked on. Specific clients, financial
 > indicators, source code, and proprietary implementation details are
 > not disclosed. The content is limited to architectural decisions and
 > principles publicly discussed for systems of this kind.
+>
+> The system runs as a commercial product; the vendor's public site:
+> https://irainbox.ru
 
 ## What the system does
 
